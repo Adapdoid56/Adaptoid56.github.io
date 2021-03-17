@@ -152,7 +152,7 @@ body {
 	margin: 5px 5px 5px 5px;
 	border-radius: 10px;
 	background-color: #f4f4f4;
-	color: #4700ca;
+	color: #000000;
 }
 
 .robot-row-triple {
@@ -254,4 +254,13 @@ input[type="text"] {
 
 .us p {
 	margin-bottom: 20px;
+}
+
+.about p {
+	color: #000000;
+}
+
+.robot-row-triple-box p {
+	font-size: 18px;
+	color: #000000;
 }
